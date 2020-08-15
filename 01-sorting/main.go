@@ -39,6 +39,6 @@ func CountSwap(arr []int) int {
 
 func main()  {
 	var data = []int{4,9,7,5,8,9,3}
-	// var data = []int{1,2,3,4}
+	
 	fmt.Printf("Jumlah swap: %d\n", CountSwap(data))
 }
